@@ -1,0 +1,10 @@
+Reviewer Reproducibility Artifact v1.3 FINAL/FROZEN validation
+manifest_failures=0
+targeted_raw_hashes=190
+round_case_directories=190
+targeted_online_rows=19000
+technical_integrity=PASS
+repeatability_19000=PASS
+stage13b_estimator_recovery=PASS
+stage13c_28000_recovery=PASS
+final_submission_freeze=READY

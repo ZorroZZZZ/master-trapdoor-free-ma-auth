@@ -1,0 +1,13 @@
+case_id,group,witness_size,participating_authorities,authorities,merkle_leaves,warmups,trials,cold_trials
+H32_XD_K01,scale_cross_domain,1,1,1,1,5,500,10
+H32_XD_K02,scale_cross_domain,2,2,2,1,5,500,10
+H32_XD_K04,scale_cross_domain,4,4,4,1,5,500,10
+H32_XD_K08,scale_cross_domain,8,8,8,1,5,500,10
+H32_XD_K16,scale_cross_domain,16,16,16,1,5,500,10
+H32_XD_K24,scale_cross_domain,24,24,24,1,5,500,10
+H32_XD_K32,scale_cross_domain,32,32,32,1,5,1000,10
+H32_FW32_J01,fixed_witness_partition,32,1,1,32,5,500,10
+H32_FW32_J02,fixed_witness_partition,32,2,2,16,5,500,10
+H32_FW32_J04,fixed_witness_partition,32,4,4,8,5,500,10
+H32_FW32_J08,fixed_witness_partition,32,8,8,4,5,500,10
+H32_FW32_J16,fixed_witness_partition,32,16,16,2,5,500,10

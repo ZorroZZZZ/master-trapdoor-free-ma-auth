@@ -1,0 +1,3 @@
+profile,witness_size,AA_from,AA_to,online_sign_start_ms,online_sign_end_ms,online_verify_start_ms,online_verify_end_ms,samplepre_start_ms,samplepre_end_ms,online_sign_change_pct,online_verify_change_pct,samplepre_change_pct
+H32,32,1,32,133.04485,132.42255,13.95255,13.9384,132.8034,132.2001,-0.46773700748281577,-0.10141515350241548,-0.45428053799828616
+H64,64,1,64,133.877,134.0387,14.00135,14.0013,133.60195,133.8027,0.1207825093182624,-0.00035710842168912293,0.15025978288489839

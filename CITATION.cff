@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software or reproducibility material, please cite the associated manuscript."
+title: "Master-Trapdoor-Free Post-Quantum Multi-Authority Authentication via User-Local Lattice Capability Aggregation"
+type: software
+authors:
+  - family-names: Chen
+    given-names: Jinhong
+    orcid: "https://orcid.org/0009-0005-2469-1955"
+  - family-names: Zhou
+    given-names: Xueguang
+  - family-names: Fu
+    given-names: Wei
+version: "1.0-review"
+date-released: 2026-08-18

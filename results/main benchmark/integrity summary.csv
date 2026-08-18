@@ -1,0 +1,2 @@
+H32_formal_online_rows,H32_cases,H32_all_sign_ok,H32_all_verify_ok,H32_max_norm_over_beta,H32_thin_bytes_unique,H32_peak_rss_MiB,H64_formal_online_rows,H64_cases,H64_all_sign_ok,H64_all_verify_ok,H64_max_norm_over_beta,H64_thin_bytes_unique,H64_peak_rss_MiB,MLDSA_formal_online_rows,MLDSA_cases,MLDSA_all_ok,MLDSA_all_tamper_rejected,total_formal_online_trials
+6500,12,True,True,0.406084,[76104],208.0859375,8500,15,True,True,0.407092,[78408],397.484375,13000,20,True,True,28000

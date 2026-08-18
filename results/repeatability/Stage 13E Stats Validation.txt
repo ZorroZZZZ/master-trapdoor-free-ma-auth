@@ -1,0 +1,12 @@
+Stage 13E Independent-Round Statistics Validation
+rounds_required=10
+trials_per_case_per_round=100
+formal_case_count=19
+targeted_online_measurements=19000
+bootstrap_reps=50000
+ci_resampling_unit=independent_round_medians
+outlier_policy=retain_all_raw_observations
+figure1_normalization=within_round_to_own_k1
+power_plan_policy=recorded_not_modified
+affinity_policy=recorded_not_modified
+overall=PASS

@@ -1,0 +1,56 @@
+{
+  "timestamp_utc": "2026-08-16T14:15:35.042010+00:00",
+  "estimator_dir": "/home/zorro/lattice_abs/0814/StageP/estimator/lattice-estimator",
+  "estimator_head": "3e48ef421ec256afddb3e7d2249a77eab6e9ba12",
+  "profiles": [
+    {
+      "H_MAX": 32,
+      "beta_sig": 4064258089.3915906,
+      "2beta_over_q": 0.473142167249942,
+      "nfMLWE_classical_attack": "dual_hybrid",
+      "nfMLWE_classical_bits": 192.82941323761221,
+      "nfMLWE_quantum_attack": "dual_hybrid",
+      "nfMLWE_quantum_raw_bits": 152.90296392329824,
+      "nfMLWE_quantum_effective_bits": 142.09560900124063,
+      "homSIS_classical_attack": "lattice",
+      "homSIS_classical_raw_bits": 225.19921689274437,
+      "homSIS_quantum_attack": "lattice",
+      "homSIS_quantum_raw_bits": 182.585,
+      "homSIS_quantum_effective_bits": 177.585,
+      "numeric_gate": "PASS_NUMERIC"
+    },
+    {
+      "H_MAX": 64,
+      "beta_sig": 5884862290.537376,
+      "2beta_over_q": 0.6850885049303368,
+      "nfMLWE_classical_attack": "dual_hybrid",
+      "nfMLWE_classical_bits": 192.82941323761221,
+      "nfMLWE_quantum_attack": "dual_hybrid",
+      "nfMLWE_quantum_raw_bits": 152.90296392329824,
+      "nfMLWE_quantum_effective_bits": 141.09560900124063,
+      "homSIS_classical_attack": "lattice",
+      "homSIS_classical_raw_bits": 216.80579171477007,
+      "homSIS_quantum_attack": "lattice",
+      "homSIS_quantum_raw_bits": 174.63500000000002,
+      "homSIS_quantum_effective_bits": 168.63500000000002,
+      "numeric_gate": "PASS_NUMERIC"
+    },
+    {
+      "H_MAX": 128,
+      "beta_sig": 8322452063.975882,
+      "2beta_over_q": 0.9688614550983808,
+      "nfMLWE_classical_attack": "dual_hybrid",
+      "nfMLWE_classical_bits": 192.82941323761221,
+      "nfMLWE_quantum_attack": "dual_hybrid",
+      "nfMLWE_quantum_raw_bits": 152.90296392329824,
+      "nfMLWE_quantum_effective_bits": 140.09560900124063,
+      "homSIS_classical_attack": "lattice",
+      "homSIS_classical_raw_bits": 209.53367803676537,
+      "homSIS_quantum_attack": "lattice",
+      "homSIS_quantum_raw_bits": 167.745,
+      "homSIS_quantum_effective_bits": 160.745,
+      "numeric_gate": "PASS_NUMERIC"
+    }
+  ],
+  "formal_boundary": "Numeric attack-cost gate only. H64/H128 still require implementation validation and do not create QROM/adaptive/malicious-AA claims."
+}
