@@ -75,9 +75,15 @@ The final frozen supplementary artifact passed the recorded integrity checks:
 
 ## Paper status
 
-This repository accompanies a manuscript submitted to **IEEE Access**.
-It is provided for scientific review and reproducibility.
+This repository accompanies Electronics manuscript electronics-4597245.
 
+The v1.0-review release preserves the earlier manuscript and experimental
+snapshot. Materials supporting the revised manuscript dated 9 October 2026
+are available at:
+
+https://github.com/ZorroZZZZ/lattices-abs
+
+The earlier IEEE Access submission label is superseded by this notice.
 ## Citation
 
 If the manuscript is accepted, the bibliographic citation and DOI will be
